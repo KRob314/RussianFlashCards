@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Item><Id>1</Id> <English>we have been here</English> <Russian>мы были здесь</Russian> <Phonetic>my byli zdes</Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>2</Id> <English>has anyone called</English> <Russian>кто-нибудь звонил</Russian> <Phonetic>kto-nibud' zvonil</Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>3</Id> <English>what is your name</English> <Russian>как тебя зовут</Russian> <Phonetic>kak tebya zovut</Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>4</Id> <English>my name is</English> <Russian>меня зовут</Russian> <Phonetic>menya zovut</Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>5</Id> <English>what time is it</English> <Russian>который сейчас час</Russian> <Phonetic>kotoryy seychas chas</Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>6</Id> <English></English> <Russian></Russian> <Phonetic></Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>7</Id> <English>Sixth item</English> <Russian>This is an item Russian.</Russian> <Phonetic></Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>8</Id> <English>Sixth item</English> <Russian>This is an item Russian.</Russian> <Phonetic></Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>9</Id> <English>Yes</English> <Russian>Da</Russian> <Phonetic></Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>10</Id> <English>No</English> <Russian>Net</Russian> <Phonetic></Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>11</Id> <English>Excuse me</English> <Russian>Yzveenee</Russian> <Phonetic></Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>12</Id> <English>Excuse me</English> <Russian>Yzveeneete (formal)</Russian> <Phonetic></Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>13</Id> <English>please</English> <Russian>pozhaluista</Russian> <Phonetic></Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>14</Id> <English>Can you tell me please</English> <Russian>Skazhite pozhluista</Russian> <Phonetic></Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>15</Id> <English>Thank you</English> <Russian>Spaseebo</Russian> <Phonetic></Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>16</Id> <English>Thank you very much</English> <Russian>Spaseebo balshoye</Russian> <Phonetic></Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>17</Id> <English>don't mention it</English> <Russian>Ne-za-chto</Russian> <Phonetic></Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>18</Id> <English>Do you speak Russian?</English> <Russian>Vy gavareeteh pa ru-sky?</Russian> <Phonetic></Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>19</Id> <English>Do you speak English?</English> <Russian>Vy gavareeteh pa anglisky?</Russian> <Phonetic></Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>20</Id> <English>I don't speak English</English> <Russian>Ya ne gavareeu na angliyskom</Russian> <Phonetic></Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>21</Id> <English>I don't speak Russian</English> <Russian>Ya ne gavareeu na ruskom</Russian> <Phonetic></Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>22</Id> <English>My Russian is bad</English> <Russian>Ya ploha gavaru pa Ruski</Russian> <Phonetic></Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>23</Id> <English>I do not understand</English> <Russian>Ya ne paneemau</Russian> <Phonetic></Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>24</Id> <English>Could you speak slowly?</English> <Russian>Gavareeteh medlenie</Russian> <Phonetic></Phonetic> <ItemType>Phrase</ItemType></Item>
+<Item><Id>25</Id> <English>Could you speak loudly?</English> <Russian>Gavareeteh gromche</Russian> <Phonetic></Phonetic> <ItemType>Phrase</ItemType></Item>
+  
+<Item><Id>27</Id> <English>I</English> <Russian>я</Russian> <Phonetic>ya</Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>28</Id> <English>Me</English> <Russian>мне</Russian> <Phonetic>mne</Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>29</Id> <English>We</English> <Russian>мы</Russian> <Phonetic>my</Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>30</Id> <English>They</English> <Russian>Oни</Russian> <Phonetic>Oni</Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>31</Id> <English>You</English> <Russian>вы</Russian> <Phonetic>vy</Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>32</Id> <English>Him</English> <Russian>ему</Russian> <Phonetic>yemu</Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>33</Id> <English>He</English> <Russian>он</Russian> <Phonetic>on</Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>34</Id> <English>Her</English> <Russian>ей</Russian> <Phonetic>yey</Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>35</Id> <English>She</English> <Russian>она</Russian> <Phonetic>ona</Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>36</Id> <English>parents</English> <Russian>roditely</Russian> <Phonetic></Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>37</Id> <English>husband</English> <Russian>muzh</Russian> <Phonetic></Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>38</Id> <English>wife</English> <Russian>zhena</Russian> <Phonetic></Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>39</Id> <English>son</English> <Russian>cyn</Russian> <Phonetic></Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>40</Id> <English>daughter</English> <Russian>Dutch</Russian> <Phonetic></Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>41</Id> <English>stepson</English> <Russian>pasynok</Russian> <Phonetic></Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>42</Id> <English>stepdoughter</English> <Russian>stepdaughter</Russian> <Phonetic></Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>43</Id> <English>son-in-law</English> <Russian>zhiat</Russian> <Phonetic></Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>44</Id> <English>daughter-in-law</English> <Russian>nevestka</Russian> <Phonetic></Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>45</Id> <English>older brother</English> <Russian>starshy brat</Russian> <Phonetic></Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>46</Id> <English>sister</English> <Russian>sestra</Russian> <Phonetic></Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>47</Id> <English>younger sister</English> <Russian>mladshaya sestra</Russian> <Phonetic></Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>48</Id> <English>father</English> <Russian>otets</Russian> <Phonetic></Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>49</Id> <English>mother</English> <Russian>mat'</Russian> <Phonetic></Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>50</Id> <English>grand-dad</English> <Russian>dedushka</Russian> <Phonetic></Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>51</Id> <English>grandma</English> <Russian>babushka</Russian> <Phonetic></Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>52</Id> <English>cousin</English> <Russian>dvojurodny brat (male)</Russian> <Phonetic></Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>53</Id> <English>cousin</English> <Russian>dvojurodnaya sestra (female)</Russian> <Phonetic></Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>54</Id> <English>friend</English> <Russian>drug (male)</Russian> <Phonetic></Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>55</Id> <English>friend</English> <Russian>podruga (female)</Russian> <Phonetic></Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>56</Id> <English>colleague</English> <Russian>kollega</Russian> <Phonetic></Phonetic> <ItemType>Word</ItemType></Item>
+<Item><Id>57</Id> <English>partner</English> <Russian>partner</Russian> <Phonetic></Phonetic> <ItemType>Word</ItemType></Item>
+
+<Item><Id>59</Id> <English>Sunday</English> <Russian>Воскресенье</Russian> <Phonetic>Voskresen'ye</Phonetic> <ItemType>Weekdays</ItemType></Item>
+<Item><Id>60</Id> <English>Monday</English> <Russian>понедельник</Russian> <Phonetic>ponedel'nik</Phonetic> <ItemType>Weekdays</ItemType></Item>
+<Item><Id>61</Id> <English>Tuesday</English> <Russian>вторник</Russian> <Phonetic>vtornik</Phonetic> <ItemType>Weekdays</ItemType></Item>
+<Item><Id>62</Id> <English>Wednesday</English> <Russian>среда</Russian> <Phonetic>sreda</Phonetic> <ItemType>Weekdays</ItemType></Item>
+<Item><Id>63</Id> <English>Thursday</English> <Russian>Четверг</Russian> <Phonetic>Chetverg</Phonetic> <ItemType>Weekdays</ItemType></Item>
+<Item><Id>64</Id> <English>Friday</English> <Russian>пятница</Russian> <Phonetic>pyatnitsa</Phonetic> <ItemType>Weekdays</ItemType></Item>
+<Item><Id>65</Id> <English>Saturday</English> <Russian>суббота</Russian> <Phonetic>subbota</Phonetic> <ItemType>Weekdays</ItemType></Item>
+  
+<Item><Id>66</Id> <English>One</English> <Russian>Один</Russian> <Phonetic>Odin</Phonetic> <ItemType>Numbers</ItemType></Item>
+<Item><Id>67</Id> <English>Two</English> <Russian>Два</Russian> <Phonetic>Dva</Phonetic> <ItemType>Numbers</ItemType></Item>
+<Item><Id>68</Id> <English>Three</English> <Russian>Три</Russian> <Phonetic>Tri</Phonetic> <ItemType>Numbers</ItemType></Item>
+<Item><Id>69</Id> <English>Four</English> <Russian>четыре</Russian> <Phonetic>chetyre</Phonetic> <ItemType>Numbers</ItemType></Item>
+<Item><Id>70</Id> <English>Five</English> <Russian>пять</Russian> <Phonetic>pyat</Phonetic> <ItemType>Numbers</ItemType></Item>
+<Item><Id>71</Id> <English>Six</English> <Russian>Шесть</Russian> <Phonetic>Shest</Phonetic> <ItemType>Numbers</ItemType></Item>
+<Item><Id>72</Id> <English>Seven</English> <Russian>Семь</Russian> <Phonetic>Sem</Phonetic> <ItemType>Numbers</ItemType></Item>
+<Item><Id>73</Id> <English>Eight</English> <Russian>Восемь</Russian> <Phonetic>Vosem</Phonetic> <ItemType>Numbers</ItemType></Item>
+<Item><Id>74</Id> <English>Nine</English> <Russian>девять</Russian> <Phonetic>dyev-yat</Phonetic> <ItemType>Numbers</ItemType></Item>
+<Item><Id>75</Id> <English>Ten</English> <Russian>Десять</Russian> <Phonetic>Desyat'</Phonetic> <ItemType>Numbers</ItemType></Item>
+<Item><Id>76</Id> <English>Eleven</English> <Russian>одиннадцать</Russian> <Phonetic></Phonetic> <ItemType>Numbers</ItemType></Item>
+<Item><Id>77</Id> <English>Twelve</English> <Russian>Двенадцать</Russian> <Phonetic>Dvenadtsat</Phonetic> <ItemType>Numbers</ItemType></Item>
+<Item><Id>78</Id> <English>Thirteen</English> <Russian>Тринадцать</Russian> <Phonetic>Trinadtsat</Phonetic> <ItemType>Numbers</ItemType></Item>
+<Item><Id>79</Id> <English>Fourteen</English> <Russian>Четырнадцать</Russian> <Phonetic>Chetyrnadtsat'</Phonetic> <ItemType>Numbers</ItemType></Item>
+<Item><Id>80</Id> <English>Fifteen</English> <Russian> пятнадцать</Russian> <Phonetic></Phonetic> <ItemType>Numbers</ItemType></Item>
+
+
+</ArrayOfItems>

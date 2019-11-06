@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RussianFlashCards.Views.ItemDetailPage"
+             Title="{Binding Title}">
+    <StackLayout Spacing="20" Padding="15">
+        <Label Text="English" FontSize="Medium" />
+        <Label Text="{Binding Item.English}" FontSize="Small"/>
+        <Label Text="Russian" FontSize="Medium" />
+        <Label Text="{Binding Item.Russian}" FontSize="Small"/>
+      <Label Text="Phonetic" FontSize="Medium" />
+      <Label Text="{Binding Item.Phonetic}" FontSize="Small" />
+        <Button Text="Speak" Command="{Binding SpeakCommand}"></Button>
+      <Button Text="Next" Command="{Binding NextCommand}"></Button>
+      <Button Text="Google Translate" Command="{Binding GoogleTranslate}"></Button>
+    </StackLayout>
+</ContentPage>
