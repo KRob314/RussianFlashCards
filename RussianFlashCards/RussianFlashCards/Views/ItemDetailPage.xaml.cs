@@ -16,7 +16,7 @@ namespace RussianFlashCards.Views
     public partial class ItemDetailPage : ContentPage
     {
         ItemDetailViewModel viewModel;
-        //public ICommand NextCommand => new Command((item) => Next());
+        MainPage RootPage { get => Application.Current.MainPage as MainPage; }
 
         public ItemDetailPage(ItemDetailViewModel viewModel)
         {
@@ -63,22 +63,6 @@ namespace RussianFlashCards.Views
             await CrossTextToSpeech.Current.Speak(str, crossLocale);
         }
 
-        public async void Next()
-        {
-            var items = (ObservableCollection<Models.Item>)Application.Current.Properties["Items"];
-            int currentIndex = items.IndexOf(viewModel.Item);
-            int maxIndex = items.Count;
 
-            if (currentIndex + 1 < maxIndex)
-            {
-                ContentPage cp = new ContentPage();
-                var item = items[currentIndex + 1] as Item;
-
-                await cp.Navigation.PushAsync(new ItemDetailPage(new ItemDetailViewModel(item)));
-
-            }
-
-
-        }
     }
 }

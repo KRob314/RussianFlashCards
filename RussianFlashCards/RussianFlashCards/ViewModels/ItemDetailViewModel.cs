@@ -41,33 +41,22 @@ namespace RussianFlashCards.ViewModels
             var items = (ObservableCollection<Models.Item>)Application.Current.Properties["Items"];
             int currentIndex = items.IndexOf(Item);
             int maxIndex = items.Count;
-            var item = items[0] ; 
-
-          
+            var item = items[0];          
 
             if (currentIndex + 1 < maxIndex)
             {              
                 item = items[currentIndex + 1] as Item;
             }
-            else
-            {
-                item = items[0] as Item;
-            }
 
-            var a = App.Current.MainPage;
-
-            ContentPage cp = new ContentPage();
-
-            cp.Navigation.PushAsync(new ItemDetailPage(new ItemDetailViewModel(item)));
-            //LoadNextItem(item);
-
+            var page = new ItemDetailPage(new ItemDetailViewModel(item));
+            var app = Application.Current as App;
+            app.SetMainPage(page);
         }
 
         public  void LoadNextItem(Item item)
         {
             ItemsPage itemsPage = new ItemsPage();
             itemsPage.NextItem(item);
-            //await Navigation.PushAsync(new ItemDetailPage(new ItemDetailViewModel(item)));
         }
 
         public void OpenGoogleTranslate()

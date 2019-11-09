@@ -44,6 +44,7 @@ namespace RussianFlashCards.Views
 
         public async void NextItem( Item item)
         {
+
             await Navigation.PushAsync(new ItemDetailPage(new ItemDetailViewModel(item)));
         }
 

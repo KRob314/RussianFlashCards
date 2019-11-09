@@ -17,6 +17,11 @@ namespace RussianFlashCards
             MainPage = new MainPage();
         }
 
+        public void SetMainPage(Page rootPage)
+        {
+            MainPage = rootPage;
+        }
+
         protected override void OnStart()
         {
             // Handle when your app starts
